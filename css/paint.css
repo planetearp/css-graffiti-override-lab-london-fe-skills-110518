@@ -86,7 +86,7 @@ div#wall .parent #tag-5.slick {
   background: none;
 }
 
-div:last-child #tag-6 {
+div#wall div.parent div:last-child div#tag-6 {
   background: none;
 }
 
